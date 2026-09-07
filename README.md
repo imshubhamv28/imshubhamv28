@@ -16,14 +16,14 @@
 
 ### 👋 About Me
 
-I'm a **Data Analyst with 5+ years of experience** in converting fragmented operational data into dashboards and reports that leadership can act on with confidence — most of this experience built inside the fast-paced, deadline-driven world of **automotive dealership operations**. I'm now looking to bring that same reporting discipline and BI skill set to a new team as a **Data Analyst / BI Analyst**.
+I'm a **Data Analytics Professional with 5+ years of experience** in MIS Reporting, Business Intelligence, Dashboard Development, and Operational Analytics. I'm now looking for a **Data Analyst / BI Analyst** role where I can put these skills to work.
 
-- 💼 **Open to opportunities** — Data Analyst / Business Intelligence Analyst roles where Power BI, SQL, and reporting-automation experience can add value from day one.
-- 📊 Over the past 5+ years, I've converted **MIS reports, NPS/CEI scores, and workshop KPIs** into dashboards trusted by service managers, regional teams, and manufacturer audit reviews.
-- ⚙️ Automated recurring reporting workflows, **reducing manual reporting effort by nearly 20%** and improving turnaround time and accuracy.
-- 🔭 Actively expanding my BI portfolio with hands-on projects in Power BI, Tableau, and SQL, while building new skills in **Generative & Agentic AI** through ExcelR's Data Analytics Professional program.
-- 🎓 Currently pursuing the **Data Analytics Professional Certifications Program — ExcelR** (Jan 2026 – Present), adding formal BI, SQL, and DAX credentials on top of my hands-on domain expertise.
-- 💬 Happy to talk about **Power BI dashboard design, DAX, MIS reporting automation, or SQL data modeling.**
+- 💼 **Open to opportunities** — Data Analyst / Business Intelligence Analyst roles.
+- 📊 Skilled in **SQL, Power BI, Advanced Excel, Power Query, DAX, MySQL, and Python** for data extraction, analysis, visualization, and reporting automation.
+- ⚙️ Built interactive KPI dashboards and automated reporting workflows, **cutting manual reporting effort by about 20%**.
+- 📈 Experienced in turning operational data into clear, actionable insights for performance monitoring and data-driven decision-making.
+- 🎓 Currently pursuing the **Data Analytics Professional Certifications Program — ExcelR** (Jan 2026 – Present).
+- 💬 Happy to talk about **Power BI, DAX, SQL, or reporting automation.**
 - 📫 Reach me at **imshubham.v28@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/imshubhamv28) — open to referrals and full-time opportunities.
 
 ---
@@ -96,7 +96,7 @@ A 6-page interactive Power BI dashboard analyzing U.S. domestic airline operatio
 
 `Power BI` `SQL` `Excel` `Aviation Analytics`
 
-**[→ View Project](#)** <sub>*(add your project link here)*</sub>
+**[→ View Repository](https://github.com/imshubhamv28/High-Cloud-Airlines-Performance-Analytics-Dashboard)**
 
 ---
 
@@ -107,7 +107,7 @@ An interactive Power BI dashboard analyzing investor behavior, asset allocation,
 
 `Power BI` `Excel` `DAX` `Financial Analytics`
 
-**[→ View Project](#)** <sub>*(add your project link here)*</sub>
+**[→ View Repository](https://github.com/imshubhamv28/Investment-Behavior-Analysis-Dashboard-Power-BI)**
 
 ---
 
