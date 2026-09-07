@@ -18,9 +18,7 @@
 
 I'm a **Data Analytics Professional with 5+ years of experience** in MIS Reporting, Business Intelligence, Dashboard Development, and Operational Analytics. I'm now looking for a **Data Analyst / BI Analyst** role where I can put these skills to work.
 
-- 💼 **Open to opportunities** — Data Analyst / Business Intelligence Analyst roles.
-- 📊 Skilled in **SQL, Power BI, Advanced Excel, Power Query, DAX, MySQL, and Python** for data extraction, analysis, visualization, and reporting automation.
-- ⚙️ Built interactive KPI dashboards and automated reporting workflows, **cutting manual reporting effort by about 20%**.
+- 📊 Skilled in **SQL, Power BI, Advanced Excel, Power Query, DAX, MySQL, Python, Pandas, NumPy** for data extraction, analysis, visualization, and reporting automation.
 - 📈 Experienced in turning operational data into clear, actionable insights for performance monitoring and data-driven decision-making.
 - 🎓 Currently pursuing the **Data Analytics Professional Certifications Program — ExcelR** (Jan 2026 – Present).
 - 💬 Happy to talk about **Power BI, DAX, SQL, or reporting automation.**
@@ -61,12 +59,11 @@ I'm a **Data Analytics Professional with 5+ years of experience** in MIS Reporti
 ---
 
 ## 🚀 Featured Projects
-*(most recent → earliest)*
 
 ### 1️⃣ [AXON Healthcare Analytics — EMR Business Intelligence System](https://github.com/imshubhamv28/AXON-HealthCare-Analytics)
 **Sep 2026 · Power BI · Tableau · SQL · Excel · DAX**
 
-<img src="assets/projects/axon_healthcare_thumbnail.png" width="700" alt="AXON Healthcare Analytics Executive Dashboard"/>
+<img width="925" height="517" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/cf51ca51-ab3b-4d47-ac98-db6fe55878ca" />
 
 An end-to-end EMR analytics build on a 10,000-patient hospital dataset — star-schema SQL modeling, a governed DAX measure library, and four stakeholder dashboards (Executive, Patient Analytics, Clinical Operations, Doctor Performance) covering visit completion, chronic-care burden, doctor workload, and revenue.
 
@@ -79,6 +76,8 @@ An end-to-end EMR analytics build on a 10,000-patient hospital dataset — star-
 ### 2️⃣ High Cloud Airlines Performance Analytics Dashboard
 **Power BI · SQL · Excel**
 
+<img width="852" height="477" alt="Page2 Home" src="https://github.com/user-attachments/assets/b8401014-22c2-4d77-9f98-dd3c8332103d" />
+
 A 6-page interactive Power BI dashboard analyzing U.S. domestic airline operations data (2008–2013) — executive summary, load factor, passenger volume, freight, and route-performance views.
 
 `Power BI` `SQL` `Excel` `Aviation Analytics`
@@ -89,6 +88,7 @@ A 6-page interactive Power BI dashboard analyzing U.S. domestic airline operatio
 
 ### 3️⃣ Retail Investor Behaviour Analysis Dashboard
 **Power BI · Excel**
+<img width="956" height="537" alt="Dashboard" src="https://github.com/user-attachments/assets/584e34ec-6ff4-4847-ac75-2bdb16aba708" />
 
 An interactive Power BI dashboard analyzing investor behavior, asset allocation, and portfolio trends from a public dataset, built on a structured data model with custom DAX measures.
 
@@ -170,6 +170,14 @@ Jan 2026 – Present (in progress)
 
 </td>
 </tr>
+<td width="50%">
+  
+**Deloitte Australia Job Simulation**
+*Forrage | Deloitte*
+August 2026 · Data Analyst
+<img width="1017" height="642" alt="Certificate" src="https://github.com/user-attachments/assets/3c1bd5e5-aba1-4cfd-9371-7dbfc15d4e57" />
+
+</td>
 </table>
 
 ---
