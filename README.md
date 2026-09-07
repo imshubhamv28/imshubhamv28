@@ -60,19 +60,6 @@ I'm a **Data Analytics Professional with 5+ years of experience** in MIS Reporti
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=imshubhamv28&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhamv28&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhamv28&layout=compact&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 *(most recent → earliest)*
 
@@ -136,7 +123,7 @@ An interactive Power BI dashboard analyzing investor behavior, asset allocation,
 **Certificate Program in Data Analyst — Gold**
 *NASSCOM FutureSkills Prime · Ministry of Electronics & IT, Govt. of India*
 Issued 31/08/2026 · Score: 79/100 (Gold, ≥70%)
-<img src="assets/certificates/nasscom_data_analyst_gold.png" width="100%" alt="NASSCOM Data Analyst Gold Certificate"/>
+<img width="682" height="486" alt="Certificate - Nassscom" src="https://github.com/user-attachments/assets/d7495863-7924-4b35-a6e4-41c068093c63" />
 
 </td>
 <td width="50%">
@@ -144,7 +131,7 @@ Issued 31/08/2026 · Score: 79/100 (Gold, ≥70%)
 **Detailed Assessment Scorecard**
 *NASSCOM FutureSkills Prime*
 Module-wise breakdown — 79% overall, 100% on Module M004
-<img src="assets/certificates/nasscom_scorecard.png" width="100%" alt="NASSCOM Scorecard"/>
+<img width="946" height="662" alt="Nasscom - ScoreCard" src="https://github.com/user-attachments/assets/41bbc750-51b3-4697-b44d-2d70942dac25" />
 
 </td>
 </tr>
@@ -154,7 +141,7 @@ Module-wise breakdown — 79% overall, 100% on Module M004
 **SQL and Relational Databases 101**
 *IBM Skills Network via CognitiveClass.ai (DB0101EN)*
 Issued June 21, 2026
-<img src="assets/certificates/ibm_sql_relational_db.png" width="100%" alt="IBM SQL Certificate"/>
+<img width="932" height="627" alt="SQL_IBM_Certificate " src="https://github.com/user-attachments/assets/f07eb230-ac72-444c-addc-b96835f2309c" />
 
 </td>
 <td width="50%">
@@ -162,7 +149,7 @@ Issued June 21, 2026
 **Data Analyst 101**
 *Microsoft, via Simplilearn SkillUp*
 Issued 23 May 2026 · Certificate code: 10260089
-<img src="assets/certificates/simplilearn_data_analyst_101.png" width="100%" alt="Simplilearn Data Analyst 101 Certificate"/>
+<img width="1172" height="829" alt="Data Analyst 101" src="https://github.com/user-attachments/assets/2c8fdc6d-a98c-4c0c-a183-94556c5983c5" />
 
 </td>
 </tr>
@@ -172,7 +159,7 @@ Issued 23 May 2026 · Certificate code: 10260089
 **Gen AI & Agentic AI — 30-Hour Live Training**
 *ExcelR EdTech Pvt. Ltd.*
 01 Jun 2026 – 19 Jun 2026 · Reg/Cert No. 898329
-<img src="assets/certificates/excelr_genai_agenticai.png" width="100%" alt="ExcelR Gen AI & Agentic AI Certificate"/>
+<img width="797" height="555" alt="GenAI_AgenticAI_ExcelR" src="https://github.com/user-attachments/assets/0774a7f1-a00c-4ac6-a818-84ef66c9c817" />
 
 </td>
 <td width="50%">
