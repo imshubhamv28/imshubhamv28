@@ -4,6 +4,7 @@
 
 <br/>
 
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20BI%20Analyst-success?style=flat-square&logo=briefcase&logoColor=white)](mailto:imshubham.v28@gmail.com)
 [![Portfolio Views](https://komarev.com/ghpvc/?username=imshubhamv28&label=Profile%20Views&color=2F80ED&style=flat-square)](https://github.com/imshubhamv28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshubhamv28)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
@@ -15,14 +16,15 @@
 
 ### 👋 About Me
 
-I'm a **Data Analyst with 5+ years of experience** turning fragmented operational data into dashboards and reports that leadership actually acts on — most of it earned inside the high-volume, deadline-driven world of **automotive dealership operations**.
+I'm a **Data Analyst with 5+ years of experience** in converting fragmented operational data into dashboards and reports that leadership can act on with confidence — most of this experience built inside the fast-paced, deadline-driven world of **automotive dealership operations**. I'm now looking to bring that same reporting discipline and BI skill set to a new team as a **Data Analyst / BI Analyst**.
 
-- 🔭 Currently building **BI portfolio projects** in Power BI, Tableau, and SQL, and deepening skills in **Generative & Agentic AI** through ExcelR's Data Analytics Professional program.
-- 📊 I've spent 5+ years turning **MIS reports, NPS/CEI scores, and workshop KPIs** into dashboards used by service managers, regional teams, and manufacturer audits.
-- ⚙️ Automated recurring reporting workflows that **cut manual reporting effort by ~20%**.
-- 🎓 Currently pursuing the **Data Analytics Professional Certifications Program — ExcelR** (Jan 2026 – Present), layering formal BI/SQL/DAX credentials on top of hands-on domain experience.
-- 💬 Ask me about **Power BI dashboard design, DAX, MIS reporting automation, or SQL data modeling.**
-- 📫 Reach me at **imshubham.v28@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/imshubhamv28).
+- 💼 **Open to opportunities** — Data Analyst / Business Intelligence Analyst roles where Power BI, SQL, and reporting-automation experience can add value from day one.
+- 📊 Over the past 5+ years, I've converted **MIS reports, NPS/CEI scores, and workshop KPIs** into dashboards trusted by service managers, regional teams, and manufacturer audit reviews.
+- ⚙️ Automated recurring reporting workflows, **reducing manual reporting effort by nearly 20%** and improving turnaround time and accuracy.
+- 🔭 Actively expanding my BI portfolio with hands-on projects in Power BI, Tableau, and SQL, while building new skills in **Generative & Agentic AI** through ExcelR's Data Analytics Professional program.
+- 🎓 Currently pursuing the **Data Analytics Professional Certifications Program — ExcelR** (Jan 2026 – Present), adding formal BI, SQL, and DAX credentials on top of my hands-on domain expertise.
+- 💬 Happy to talk about **Power BI dashboard design, DAX, MIS reporting automation, or SQL data modeling.**
+- 📫 Reach me at **imshubham.v28@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/imshubhamv28) — open to referrals and full-time opportunities.
 
 ---
 
