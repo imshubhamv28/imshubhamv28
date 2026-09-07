@@ -163,14 +163,6 @@ Issued 23 May 2026 · Certificate code: 10260089
 
 </td>
 <td width="50%">
-
-**Data Analytics Professional Certifications Program**
-*ExcelR, Pune (MH)*
-Jan 2026 – Present (in progress)
-
-</td>
-</tr>
-<td width="50%">
   
 **Deloitte Australia Job Simulation**
 *Forrage | Deloitte*
@@ -178,6 +170,14 @@ August 2026 · Data Analyst
 <img width="1017" height="642" alt="Certificate" src="https://github.com/user-attachments/assets/3c1bd5e5-aba1-4cfd-9371-7dbfc15d4e57" />
 
 </td>
+<td width="50%">
+
+**Data Analytics Professional Certifications Program**
+*ExcelR, Pune (MH)*
+Jan 2026 – Present (in progress)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -203,6 +203,5 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshubhamv28)
 
-**#DataAnalyst #PowerBI #SQL #BusinessIntelligence #MISReporting #DataAnalytics #DAX #Excel #HealthcareAnalytics #AutomotiveAnalytics**
-
+**Data Analyst**
 </div>
