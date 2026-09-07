@@ -1,128 +1,211 @@
-<h1 align="center">Hi 👋, I'm Shubham Vishwakarma</h1>
-<h3 align="center">Data Analyst | Business Intelligence | Power BI Developer</h3>
-<p align="center">Transforming Business Data into Actionable Insights 📊</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Vishwakarma;Data+Analyst+%7C+Business+Intelligence;Power+BI+%C2%B7+SQL+%C2%B7+DAX+%C2%B7+Advanced+Excel+%C2%B7+Python;Turning+Raw+Data+Into+Decisions" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio Views](https://komarev.com/ghpvc/?username=imshubhamv28&label=Profile%20Views&color=2F80ED&style=flat-square)](https://github.com/imshubhamv28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshubhamv28)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-2F80ED?style=flat-square&logo=googledocs&logoColor=white)](assets/resume/Shubham_Vishwakarma_Resume.pdf)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 👋 About Me
 
-I am a Data Analytics and MIS Professional with **5+ years of experience** in MIS Reporting, Business Intelligence, Dashboard Development, and Operational Analytics within the **Automotive After-Sales Industry**.
+I'm a **Data Analyst with 5+ years of experience** turning fragmented operational data into dashboards and reports that leadership actually acts on — most of it earned inside the high-volume, deadline-driven world of **automotive dealership operations**.
 
-My expertise lies in transforming operational data into actionable business insights using **Power BI, SQL, Advanced Excel, Power Query, DAX, and Python** to support business performance, KPI monitoring, and data-driven decision-making.
-
-Currently expanding my expertise through end-to-end analytics projects and continuously learning modern Business Intelligence technologies.
-
----
-
-### 🚀 Featured Portfolio Projects
-
-**1. ✈️ High Cloud Airlines Performance Analytics Dashboard**
-`Power BI` • `Power Query` • `DAX` • `Data Modeling`
-End-to-End Power BI project analyzing US airline operations using Power Query, DAX, Data Modeling, and interactive dashboards to deliver actionable business insights.
-🔗 [Repository](https://github.com/imshubhamv28/High-Cloud-Airlines-Performance-Analytics-Dashboard)
-
-**2. 🛒 E-Commerce Sales Analytics Dashboard**
-`Advanced Excel`
-📊 Sales Performance &nbsp;|&nbsp; 📈 Revenue Analysis &nbsp;|&nbsp; 🛍 Customer Insights
-🔗 [Repository](https://github.com/imshubhamv28/ECOMMERCE-SALES-ANALYTICS-DASHBOARD---EXCEL)
-
-**3. 📈 Retail Investor Behaviour Analysis Dashboard**
-`Power BI` • `Excel`
-Interactive Power BI Dashboard analyzing investment behavior, preferences, savings objectives, and investor insights using data visualization and business intelligence techniques.
-🔗 [Repository](https://github.com/imshubhamv28/Investment-Behavior-Analysis-Dashboard-Power-BI)
-
-**4. 🍔 Swiggy Sales Performance Dashboard**
-`Power BI`
-An end-to-end Power BI dashboard developed to analyze food delivery data and derive actionable business insights.
-🔗 [Repository](https://github.com/imshubhamv28/Swiggy-Sales-Performance-Dashboard)
-
-**5. 🚙 BMW Dashboard**
-`Power BI`
-A project simulating a real-world business scenario to derive actionable insights.
-🔗 [Repository](https://github.com/imshubhamv28/BMW-Dashboard)
+- 🔭 Currently building **BI portfolio projects** in Power BI, Tableau, and SQL, and deepening skills in **Generative & Agentic AI** through ExcelR's Data Analytics Professional program.
+- 📊 I've spent 5+ years turning **MIS reports, NPS/CEI scores, and workshop KPIs** into dashboards used by service managers, regional teams, and manufacturer audits.
+- ⚙️ Automated recurring reporting workflows that **cut manual reporting effort by ~20%**.
+- 🎓 Currently pursuing the **Data Analytics Professional Certifications Program — ExcelR** (Jan 2026 – Present), layering formal BI/SQL/DAX credentials on top of hands-on domain experience.
+- 💬 Ask me about **Power BI dashboard design, DAX, MIS reporting automation, or SQL data modeling.**
+- 📫 Reach me at **imshubham.v28@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/imshubhamv28).
 
 ---
 
-### 💼 Professional Experience
+### 🛠️ Tech Stack
 
-**🚗 Standard MotoCorp Pvt. Ltd.**
-Service EDP Manager (MIS Analyst)
-📅 Jun 2022 – Sep 2025
-
-Responsible for:
-- MIS Reporting
-- Business Intelligence Reporting
-- Power BI Dashboards
-- SQL Reporting
-- KPI Monitoring
-- Operational Analytics
-- Customer Satisfaction Analytics
-- Revenue Analytics
-
-**🚗 Shubh Motors Pvt. Ltd.**
-Service EDP Executive (MIS Executive)
-📅 Jun 2019 – Dec 2021
-
-Worked on:
-- MIS Reporting
-- Dashboard Reporting
-- Business Reporting
-- Data Validation
-- Operational Reporting
-- KPI Monitoring
-
----
-
-### 🛠 Technical Skills
+<div align="center">
 
 **Business Intelligence**
-Power BI • DAX • Power Query • Data Modeling • Row-Level Security (RLS) • Tableau
 
-**Database**
-SQL • MySQL • Relational Databases
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-2C2C2C?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-**Data Analytics**
-Data Extraction • Data Cleaning • ETL • Data Validation • Data Transformation • Dashboard Development • Data Visualization • KPI Analysis • Trend Analysis • Root Cause Analysis
+**Databases & Query**
 
-**Excel**
-Advanced Excel • Power Pivot • Pivot Tables • VBA • Google Sheets
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Programming**
-Python
+**Spreadsheet & Reporting**
 
----
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-A91E22?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-### 🌍 Domain Expertise
-- Automotive After-Sales Analytics
-- Workshop Performance Analytics
-- Customer Experience Analytics (NPS / CEI)
-- Revenue Analytics
-- Operational KPI Reporting
-- Business Intelligence Reporting
+**Programming & Tools**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/GenAI_Tools-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🎯 Currently Learning
-- Advanced SQL
-- Power BI Optimization
-- Python for Data Analytics
-- Data Modeling
-- End-to-End Analytics Projects
+</div>
 
 ---
 
-### 📄 Resume
-📑 [View Resume](https://drive.google.com/file/d/1EoaFLfpzkWu1xCq5rje_YGjuNMj7H3-U/view)
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=imshubhamv28&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhamv28&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhamv28&layout=compact&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
-📧 Email: [imshubham.v28@gmail.com](mailto:imshubham.v28@gmail.com)
-💼 LinkedIn: [linkedin.com/in/imshubhamv28](https://www.linkedin.com/in/imshubhamv28)
-🐙 GitHub: [github.com/imshubhamv28](https://github.com/imshubhamv28)
-📊 Tableau Public: [public.tableau.com/app/profile/shubham.vishwakarma1885](https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes)
+## 🚀 Featured Projects
+*(most recent → earliest)*
+
+### 1️⃣ [AXON Healthcare Analytics — EMR Business Intelligence System](https://github.com/imshubhamv28/AXON-HealthCare-Analytics)
+**Sep 2026 · Power BI · Tableau · SQL · Excel · DAX**
+
+<img src="assets/projects/axon_healthcare_thumbnail.png" width="700" alt="AXON Healthcare Analytics Executive Dashboard"/>
+
+An end-to-end EMR analytics build on a 10,000-patient hospital dataset — star-schema SQL modeling, a governed DAX measure library, and four stakeholder dashboards (Executive, Patient Analytics, Clinical Operations, Doctor Performance) covering visit completion, chronic-care burden, doctor workload, and revenue.
+
+`Power BI` `Tableau` `MySQL` `DAX` `Star Schema` `Healthcare Analytics`
+
+**[→ View Repository](https://github.com/imshubhamv28/AXON-HealthCare-Analytics)**
 
 ---
 
-### 💡 Career Goal
-To leverage my experience in business reporting and analytics together with modern BI technologies to solve business problems, build impactful dashboards, and deliver data-driven solutions as a Data Analyst.
+### 2️⃣ High Cloud Airlines Performance Analytics Dashboard
+**Power BI · SQL · Excel**
+
+A 6-page interactive Power BI dashboard analyzing U.S. domestic airline operations data (2008–2013) — executive summary, load factor, passenger volume, freight, and route-performance views.
+
+`Power BI` `SQL` `Excel` `Aviation Analytics`
+
+**[→ View Project](#)** <sub>*(add your project link here)*</sub>
+
+---
+
+### 3️⃣ Retail Investor Behaviour Analysis Dashboard
+**Power BI · Excel**
+
+An interactive Power BI dashboard analyzing investor behavior, asset allocation, and portfolio trends from a public dataset, built on a structured data model with custom DAX measures.
+
+`Power BI` `Excel` `DAX` `Financial Analytics`
+
+**[→ View Project](#)** <sub>*(add your project link here)*</sub>
+
+---
+
+## 💼 Professional Experience
+
+**Service EDP Manager (MIS Analyst)** — Standard MotoCorp Pvt. Ltd., Jabalpur · *Jun 2022 – Sep 2025*
+- Built Power BI dashboards tracking customer satisfaction, NPS, and service KPIs for management and manufacturer reporting
+- Consolidated Maruti DMS + MySQL data via SQL; cleaned, validated, and reconciled with Advanced Excel & Power Query
+- Automated recurring MIS reports (Power Query, Power Pivot, VBA), **cutting manual reporting effort by ~20%**
+- Tracked Labour Revenue, Parts Revenue, Service TAT, Bay Productivity, CEI, and NPS across regional teams
+
+**Service EDP Executive (MIS Executive)** — Shubh Motors Pvt. Ltd., Jabalpur · *Jun 2019 – Dec 2021*
+- Built daily/weekly/monthly MIS dashboards (Pivot Tables, Pivot Charts, VLOOKUP) tracking Vehicle Inflow, Labour Revenue, and Workshop Productivity
+- Tracked warranty claim submission, approval trends, and processing performance with full data reconciliation
+
+*(Full role-by-role breakdown in my [resume](assets/resume/Shubham_Vishwakarma_Resume.pdf).)*
+
+---
+
+## 📜 Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+**Certificate Program in Data Analyst — Gold**
+*NASSCOM FutureSkills Prime · Ministry of Electronics & IT, Govt. of India*
+Issued 31/08/2026 · Score: 79/100 (Gold, ≥70%)
+<img src="assets/certificates/nasscom_data_analyst_gold.png" width="100%" alt="NASSCOM Data Analyst Gold Certificate"/>
+
+</td>
+<td width="50%">
+
+**Detailed Assessment Scorecard**
+*NASSCOM FutureSkills Prime*
+Module-wise breakdown — 79% overall, 100% on Module M004
+<img src="assets/certificates/nasscom_scorecard.png" width="100%" alt="NASSCOM Scorecard"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**SQL and Relational Databases 101**
+*IBM Skills Network via CognitiveClass.ai (DB0101EN)*
+Issued June 21, 2026
+<img src="assets/certificates/ibm_sql_relational_db.png" width="100%" alt="IBM SQL Certificate"/>
+
+</td>
+<td width="50%">
+
+**Data Analyst 101**
+*Microsoft, via Simplilearn SkillUp*
+Issued 23 May 2026 · Certificate code: 10260089
+<img src="assets/certificates/simplilearn_data_analyst_101.png" width="100%" alt="Simplilearn Data Analyst 101 Certificate"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Gen AI & Agentic AI — 30-Hour Live Training**
+*ExcelR EdTech Pvt. Ltd.*
+01 Jun 2026 – 19 Jun 2026 · Reg/Cert No. 898329
+<img src="assets/certificates/excelr_genai_agenticai.png" width="100%" alt="ExcelR Gen AI & Agentic AI Certificate"/>
+
+</td>
+<td width="50%">
+
+**Data Analytics Professional Certifications Program**
+*ExcelR, Pune (MH)*
+Jan 2026 – Present (in progress)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Mechanical Engineering**
+RGPV University, Bhopal · 2019 · CGPA: 7.09
+
+---
+
+## 📄 Resume
+
+📥 **[Download my full resume (PDF)](assets/resume/Shubham_Vishwakarma_Resume.pdf)**
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshubhamv28)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshubhamv28)
+
+**#DataAnalyst #PowerBI #SQL #BusinessIntelligence #MISReporting #DataAnalytics #DAX #Excel #HealthcareAnalytics #AutomotiveAnalytics**
+
+</div>
