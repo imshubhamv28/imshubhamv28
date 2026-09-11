@@ -169,12 +169,15 @@ Issued 23 May 2026 · Certificate code: 10260089
 August 2026 · Data Analyst
 <img width="1017" height="642" alt="Certificate" src="https://github.com/user-attachments/assets/3c1bd5e5-aba1-4cfd-9371-7dbfc15d4e57" />
 
+</tr>
 </td>
 <td width="50%">
 
 **Data Analytics Professional Certifications Program**
 *ExcelR, Pune (MH)*
-Jan 2026 – Present (in progress)
+Jan 2026 - Jun 2026
+<img width="572" height="737" alt="Data Analyst" src="https://github.com/user-attachments/assets/1d06a385-2e54-43f9-abf8-a0bfe9539771" />
+
 
 </td>
 </tr>
