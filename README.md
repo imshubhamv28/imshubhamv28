@@ -8,7 +8,7 @@
 [![Portfolio Views](https://komarev.com/ghpvc/?username=imshubhamv28&label=Profile%20Views&color=2F80ED&style=flat-square)](https://github.com/imshubhamv28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshubhamv28)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-2F80ED?style=flat-square&logo=googledocs&logoColor=white)](assets/resume/Shubham_Vishwakarma_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-2F80ED?style=flat-square&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)
 
 </div>
 
@@ -110,7 +110,7 @@ An interactive Power BI dashboard analyzing investor behavior, asset allocation,
 - Built daily/weekly/monthly MIS dashboards (Pivot Tables, Pivot Charts, VLOOKUP) tracking Vehicle Inflow, Labour Revenue, and Workshop Productivity
 - Tracked warranty claim submission, approval trends, and processing performance with full data reconciliation
 
-*(Full role-by-role breakdown in my [resume](assets/resume/Shubham_Vishwakarma_Resume.pdf).)*
+*(Full role-by-role breakdown in my [resume](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link).)*
 
 ---
 
@@ -194,7 +194,7 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 
 ## 📄 Resume
 
-📥 **[Download my full resume (PDF)](assets/resume/Shubham_Vishwakarma_Resume.pdf)**
+📥 **[Download Resume](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)**
 
 ---
 
