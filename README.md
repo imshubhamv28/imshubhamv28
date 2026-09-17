@@ -29,18 +29,33 @@
 ---
 
 ### 👋 About Me
+I’m a **Data Analyst & MIS Analyst** with 5+ years of experience working with real-world business and Automotive Service Operations Data.
 
-**I'm a Data Analyst & MIS Analyst Professional with 5+ Yrs experience in MIS Reporting, KPI Analysis, Dashboard Development, Business Performance Analytics in the Automotive Dealership After-Sales (Service) Domain.**
+My experience started in automotive service operations, where I worked closely with large volumes of customer, vehicle, service, revenue, and performance data. Over the years, I moved from routine MIS reporting to more analytical work—building KPI reports, identifying trends, improving data accuracy, and helping management understand operational performance.
 
-For over five years, I sat at the intersection of **data and decision-making**. I owned the pipeline end-to-end from a live Dealer Management System (DMS) capturing every customer enquiry, invoice, service record, and warranty claim, through cleaning and validation in Advanced Excel, Power BI and Power Query, into the Power BI dashboards and MIS reports that Internal stakeholders Like Service Managers, CRM Team, Quality Managers and Management relied on every week. 
+Today, my core focus is on turning raw data into clear, actionable insights using:
 
+• SQL / MySQL – data extraction, joins, aggregations, analysis and validation
+• Power BI – interactive dashboards, DAX, data modeling, drill-through and reporting
+• Advanced Excel – Pivot Tables, Power Query, Power Pivot, VBA and automation
+• Python – Pandas, NumPy, Matplotlib, Seaborn and exploratory data analysis
+• Data Analytics – data cleaning, transformation, KPI analysis, trend analysis and root-cause analysis
+
+One of my key projects involved analyzing customer satisfaction and NPS data for NEXA service operations, where I worked with 40,000 customer feedback records to understand Promoters, Passives and Detractors, identify dissatisfaction patterns, and build management-focused analytics.
+
+I enjoy solving practical business problems with data—not just creating dashboards, but understanding what the numbers are saying, why something is happening, and what action can be taken next.
+
+I’m currently looking for opportunities in Data Analytics, MIS Analytics, Business Intelligence, and Operations Analytics, where I can combine my business-domain experience with my technical analytics skills and contribute to data-driven decision making.
+
+📌 Open to: Data Analyst | MIS Analyst | BI Analyst | Operations Analyst
+📍 Pune / Open to relevant opportunities
 ---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
 
-### 1️⃣ [AXON Healthcare Analytics — EMR Business Intelligence System](https://github.com/imshubhamv28/AXON-HealthCare-Analytics)
+### 1️⃣ [AXON Healthcare Analytics]
 **Sep 2026 · Power BI · Tableau · SQL · Excel · DAX**
 
 <img width="925" height="517" alt="AXON Healthcare Executive Dashboard" src="https://github.com/user-attachments/assets/cf51ca51-ab3b-4d47-ac98-db6fe55878ca"/>
@@ -101,7 +116,7 @@ An interactive Power BI dashboard analyzing investor behavior, asset allocation,
 - Built daily/weekly/monthly MIS dashboards (Pivot Tables, Pivot Charts, VLOOKUP) tracking Vehicle Inflow, Labour Revenue, and Workshop Productivity
 - Tracked warranty claim submission, approval trends, and processing performance with full data reconciliation
 
-*(Full role-by-role breakdown in my [resume](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link).)*
+*([resume](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link).)*
 
 ---
 
@@ -145,7 +160,6 @@ Issued 23 May 2026 · Certificate code: 10260089
 <img width="1172" height="829" alt="Simplilearn Data Analyst 101" src="https://github.com/user-attachments/assets/2c8fdc6d-a98c-4c0c-a183-94556c5983c5"/>
 
 </td>
-</tr>
 <tr>
 <td width="50%">
 
@@ -163,8 +177,7 @@ August 2026 · Data Analyst
 <img width="1017" height="642" alt="Deloitte Job Simulation Certificate" src="https://github.com/user-attachments/assets/3c1bd5e5-aba1-4cfd-9371-7dbfc15d4e57"/>
 
 </td>
-</tr>
-<tr>
+</>
 <td width="50%">
 
 **Data Analytics Professional Certifications Program**
@@ -174,22 +187,18 @@ Jan 2026 – Jun 2026
 
 </td>
 <td width="50%">
+**Data Analyst — Internship Program**
+*AI Variant*
+26 Feb 2026 – 29 Aug 2026
+<img width="510" height="735" alt="AI Variant InternShip Certificate" src="https://github.com/user-attachments/assets/2dd78274-6193-4386-82c5-0cafd64dbf49" />
 
+</td>
 **Introduction to Google Analytics**
 *Simplilearn SkillUp*
 Issued 21 May 2026 · Certificate code: 10252594
 <img width="1162" height="820" alt="Introduction to google Analytics" src="https://github.com/user-attachments/assets/2ec742f6-952e-4915-97d7-7668daf67f89" />
 
 </td>
-<td width="50%">
-**Data Analyst — Internship Program**
-*AI Variant*
-26 Feb 2026 – 29 Aug 2026
-<img width="510" height="735" alt="AI Variant InternShip Certificate" src="https://github.com/user-attachments/assets/2dd78274-6193-4386-82c5-0cafd64dbf49" />
-
-
-</td>
-</tr>
 </table>
 
 <div align="center">
