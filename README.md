@@ -20,8 +20,6 @@
 [![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)
 
 <br/>
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
@@ -39,7 +37,7 @@ An end-to-end EMR analytics build on a 10,000-patient hospital dataset — star-
 
 ---
 
-### 2️⃣ [High Cloud Airlines — Performance Analytics Dashboard]
+### 2️⃣ High Cloud Airlines Performance Analytics
 **Power BI · SQL · Excel**
 
 <img width="100%" alt="High Cloud Airlines Home Dashboard" src="https://github.com/user-attachments/assets/b8401014-22c2-4d77-9f98-dd3c8332103d"/>
@@ -52,7 +50,7 @@ A 6-page interactive Power BI dashboard analyzing U.S. domestic airline operatio
 
 ---
 
-### 3️⃣ [Retail Investor Behaviour Analysis Dashboard]
+### 3️⃣ Retail Investor Behaviour Analysis Dashboard
 **Power BI · Excel**
 
 <img width="100%" alt="Retail Investor Behaviour Dashboard" src="https://github.com/user-attachments/assets/584e34ec-6ff4-4847-ac75-2bdb16aba708"/>
