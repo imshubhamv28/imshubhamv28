@@ -21,52 +21,24 @@
 
 <br/>
 
-**🎯 Target Roles:** `Data Analyst` · `MIS Analyst` · `Business Analyst` · `BI Analyst` · `Reporting Analyst`
+**🎯 Target Roles:** `Data Analyst` · `MIS Analyst` · `Business Analyst` · `BI Analyst` · `Operations Analyst`
 
 </div>
 
-<br/>
-
-<div align="center">
-
-| 🕐 5+ Years | 📊 3 BI Projects | 🎓 9 Certifications | ⚙️ ~20% Faster Reporting | 🏢 2 Dealership Employers |
-|:---:|:---:|:---:|:---:|:---:|
-| Automotive MIS & Analytics | Power BI · SQL · Tableau | Deloitte · IBM · NASSCOM · ExcelR | Through report automation | Standard MotoCorp · Shubh Motors |
-
-</div>
 
 ---
 
 ### 👋 About Me
 
-I'm a **Data Analyst with 5+ years of hands-on experience** turning raw operational data into decisions business leaders actually acted on — not from classroom projects, but from running the analytics function inside a live automotive dealership environment (Maruti Suzuki NEXA), most recently as Service EDP Manager at Standard MotoCorp Pvt. Ltd., Jabalpur.
+I'm a **Data Analyst & MIS Analyst Professional with 5+ Yrs experience in MIS Reporting, KPI Analysis, Dashboard Development, Business Performance Analytics in the Automotive Dealership After-Sales (Service) Domain.
 
-For over five years, I sat at the intersection of **data and decision-making**. I owned the pipeline end-to-end — from a live Dealer Management System (DMS) capturing every customer enquiry, invoice, service record, and warranty claim, through cleaning and validation in SQL/MySQL and Power Query, into the Power BI dashboards and MIS reports that Regional Managers and manufacturer stakeholders relied on every week. Stripped of the automotive job title, that experience is pure data analytics:
+For over five years, I sat at the intersection of **data and decision-making**. I owned the pipeline end-to-end from a live Dealer Management System (DMS) capturing every customer enquiry, invoice, service record, and warranty claim, through cleaning and validation in Advanced Excel, Power BI and Power Query, into the Power BI dashboards and MIS reports that Internal stakeholders Like Service Managers, CRM Team, Quality Managers and Management relied on every week. 
 
-- 🔗 **Data extraction & pipeline ownership** — pulling and syncing operational data from a DMS and MySQL databases, the same extraction discipline any analyst role runs on daily.
-- 🧹 **Data cleaning, validation & reconciliation** — no number reached a report without being checked first, so leadership could trust the dashboards without double-checking them.
-- 📊 **Dashboard & KPI development** — building Power BI dashboards tracking CSAT, NPS, Labour & Parts Revenue, Service TAT, Bay Productivity, and CEI, turning raw transactional data into decisions.
-- ⚙️ **Reporting automation** — replacing manual, repetitive Excel work with Power Query, Power Pivot, and VBA-driven pipelines, cutting reporting effort by **~20%**.
-- 🤝 **Stakeholder communication** — translating data into business language for Regional Managers, Workshop Heads, and manufacturer teams, and being the trusted point of contact for reporting accuracy.
+- 📊 Skilled in **SQL, Power BI, Advanced Excel, Power Query, DAX, MySQL, Python, Tableau** for data extraction, analysis, visualization, and reporting automation.
 
-It's the same core skill set a Data Analyst role needs — I've simply earned it under an operations title instead of the "Data Analyst" one. I've since formalized it structurally with certifications from ExcelR, Deloitte, IBM, NASSCOM FutureSkills, and Simplilearn, plus a self-built BI project portfolio, and I'm now looking to bring this experience to a dedicated **Data Analyst / MIS Analyst** role full-time.
 
-- 📊 Skilled in **SQL, Power BI, Tableau, Advanced Excel, Power Query, DAX, MySQL, Python** for data extraction, analysis, visualization, and reporting automation.
-- 💬 Happy to talk about **Power BI, DAX, SQL, or reporting automation.**
 - 📫 Reach me at **[imshubham.v28@gmail.com](mailto:imshubham.v28@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/imshubhamv28)** — open to referrals and full-time opportunities.
 
-<br/>
-
-### 🎯 What I Bring to the Table
-
-| Business Problem | What I Did | Result |
-|---|---|---|
-| Leadership had no single view of **CSAT & NPS performance** | Built Power BI dashboards on Maruti DMS + MySQL data, cleaned & reconciled with SQL and Power Query | Audit-ready quarterly/yearly reporting for management & manufacturer |
-| Manual MIS reporting on **Revenue, TAT, Bay Productivity, CEI** was slow & error-prone | Automated the pipeline with Power Query, Power Pivot & VBA Macros | Cut manual reporting effort by **~20%** |
-| No visibility into **technician & workshop performance** | Consolidated DMS data into MIS reports with trend & root-cause analysis | Data-backed operational planning for Workshop Heads |
-| Complex healthcare/aviation/finance datasets need self-serve exploration | Built full BI portfolio — star-schema modeling, DAX measure libraries, multi-page dashboards | 3 end-to-end analytics projects, each with governed data models |
-
-<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Tech%20Stack%20%26%20Proficiency&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
@@ -257,12 +229,15 @@ Jan 2026 – Jun 2026
 **Introduction to Google Analytics**
 *Simplilearn SkillUp*
 Issued 21 May 2026 · Certificate code: 10252594
+<img width="1162" height="820" alt="Introduction to google Analytics" src="https://github.com/user-attachments/assets/2ec742f6-952e-4915-97d7-7668daf67f89" />
 
+</td>
+<td width="50%">
 **Data Analyst — Internship Program**
 *AI Variant*
 26 Feb 2026 – 29 Aug 2026
+<img width="510" height="735" alt="AI Variant InternShip Certificate" src="https://github.com/user-attachments/assets/2dd78274-6193-4386-82c5-0cafd64dbf49" />
 
-*(Certificate images available in my repo's `/assets/certifications` folder.)*
 
 </td>
 </tr>
@@ -294,9 +269,7 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 
 ---
 
-## 📄 Resume
-
-📥 **[Download Resume](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)**
+📄**[Download Resume] (https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)**
 
 ---
 
@@ -308,7 +281,7 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshubhamv28)
 [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
+[!(https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 
 **Data Analyst**
 
