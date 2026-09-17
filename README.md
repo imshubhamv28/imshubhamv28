@@ -20,44 +20,13 @@
 [![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)
 
 <br/>
-
-           `Data Analyst` · `MIS Analyst` · `Business Analyst` · `BI Analyst` · `Operations Analyst`
-
-</div>
-
----
-
-### 👋 About Me
-
-I'm a **Data Analyst & MIS Analyst** with 5+ years of experience working with real-world business and automotive service operations data.
-
-My experience started in automotive service operations, where I worked closely with large volumes of customer, vehicle, service, revenue, and performance data. Over the years, I moved from routine MIS reporting to more analytical work — building KPI reports, identifying trends, improving data accuracy, and helping management understand operational performance.
-
-Today, my core focus is on turning raw data into clear, actionable insights using:
-
-- 🗄️ **SQL / MySQL** — data extraction, joins, aggregations, analysis and validation
-- 📊 **Power BI** — interactive dashboards, DAX, data modeling, drill-through and reporting
-- 📈 **Advanced Excel** — Pivot Tables, Power Query, Power Pivot, VBA and automation
-- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn and exploratory data analysis
-- 🔎 **Data Analytics** — data cleaning, transformation, KPI analysis, trend analysis and root-cause analysis
-
-One of my key projects involved analyzing **customer satisfaction and NPS data for NEXA service operations**, where I worked with **40,000+ customer feedback records** to understand Promoters, Passives and Detractors, identify dissatisfaction patterns, and build management-focused analytics.
-
-I enjoy solving practical business problems with data — not just creating dashboards, but understanding what the numbers are saying, why something is happening, and what action can be taken next.
-
-I'm currently looking for opportunities in **Data Analytics, MIS Analytics, Business Intelligence, and Operations Analytics**, where I can combine my business-domain experience with my technical analytics skills and contribute to data-driven decision making.
-
-<div align="center">
-
-</div>
-
 ---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
 
-### 1️⃣ [AXON Healthcare Analytics — EMR Business Intelligence System]
+### 1️⃣ AXON Healthcare Analytics
 **Sep 2026 · Power BI · Tableau · SQL · Excel · DAX**
 
 <img width="100%" alt="AXON Healthcare Executive Dashboard" src="https://github.com/user-attachments/assets/cf51ca51-ab3b-4d47-ac98-db6fe55878ca"/>
@@ -152,11 +121,6 @@ Model-wise and region-wise sales performance analysis for an automotive brand �
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Certificates&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Certifications%20%26%20Learning&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
