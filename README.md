@@ -27,26 +27,6 @@
 
 ---
 
-### 👋 About Me
-
-I'm a **Data Analyst & MIS Analyst** with 5+ years of experience working with real-world business and automotive service operations data.
-
-My experience started in automotive service operations, where I worked closely with large volumes of customer, vehicle, service, revenue, and performance data. Over the years, I moved from routine MIS reporting to more analytical work — building KPI reports, identifying trends, improving data accuracy, and helping management understand operational performance.
-
-Today, my core focus is on turning raw data into clear, actionable insights using:
-
-- 🗄️ **SQL / MySQL** — data extraction, joins, aggregations, analysis and validation
-- 📊 **Power BI** — interactive dashboards, DAX, data modeling, drill-through and reporting
-- 📈 **Advanced Excel** — Pivot Tables, Power Query, Power Pivot, VBA and automation
-- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn and exploratory data analysis
-- 🔎 **Data Analytics** — data cleaning, transformation, KPI analysis, trend analysis and root-cause analysis
-
-One of my key projects involved analyzing **customer satisfaction and NPS data for NEXA service operations**, where I worked with **40,000+ customer feedback records** to understand Promoters, Passives and Detractors, identify dissatisfaction patterns, and build management-focused analytics.
-
-I enjoy solving practical business problems with data — not just creating dashboards, but understanding what the numbers are saying, why something is happening, and what action can be taken next.
-
-I'm currently looking for opportunities in **Data Analytics, MIS Analytics, Business Intelligence, and Operations Analytics**, where I can combine my business-domain experience with my technical analytics skills and contribute to data-driven decision making.
-
 <div align="center">
 
 📌 **Open to:** Data Analyst · MIS Analyst · BI Analyst · Operations Analyst &nbsp;|&nbsp; 📍 **Pune** · Open to relevant opportunities
@@ -100,6 +80,7 @@ An interactive Power BI dashboard analyzing investor behavior, asset allocation,
 
 ### 4️⃣ E-Commerce Sales Analytics Dashboard
 **Power BI · DAX · Power Query**
+<img width="1533" height="827" alt="Ecommerce sales Dashboard" src="https://github.com/user-attachments/assets/633ceada-72e5-49ec-926b-80011416b881" />
 
 <img width="100%" alt="E-Commerce Sales Analytics Dashboard" src="assets/projects/ecommerce-sales/ecommerce-sales-dashboard.png"/>
 
@@ -113,8 +94,7 @@ A KPI-driven dashboard tracking Sales, Profit, Quantity, Total Orders, and Profi
 
 ### 5️⃣ HR Analytics Dashboard
 **Power BI · DAX**
-
-<img width="100%" alt="HR Analytics Dashboard" src="assets/projects/hr-analytics/hr-analytics-dashboard.png"/>
+<img width="1159" height="641" alt="Screenshot 2026-08-06 222902" src="https://github.com/user-attachments/assets/09af94e1-5d14-4f8b-8379-a50c69de387f" />
 
 A workforce attendance dashboard tracking Total Working Days, Present Days, Presence %, WFH %, and Sick Leave %, broken down by weekday and by employee, with trend lines and a full daily attendance grid for granular drill-down.
 
@@ -126,6 +106,7 @@ A workforce attendance dashboard tracking Total Working Days, Present Days, Pres
 
 ### 6️⃣ Swiggy Sales Analytics
 **Power BI · SQL**
+<img width="1300" height="736" alt="Swiggy-HomePage" src="https://github.com/user-attachments/assets/987e8b66-f18e-401e-90e2-cc7194d10a23" />
 
 Order and revenue analysis across cities, cuisines, and time windows to identify peak-demand patterns and category-level growth opportunities for a food-delivery business.
 
@@ -137,6 +118,7 @@ Order and revenue analysis across cities, cuisines, and time windows to identify
 
 ### 7️⃣ BMW Sales Analytics
 **Power BI · SQL**
+<img width="1163" height="650" alt="BMW-Global-Dashboard" src="https://github.com/user-attachments/assets/3f8c897b-82ee-470e-bf79-a13b0f174a37" />
 
 Model-wise and region-wise sales performance analysis for an automotive brand — a natural extension of my dealership MIS background into a portfolio-scale BI project.
 
