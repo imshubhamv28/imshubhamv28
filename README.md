@@ -15,21 +15,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshubhamv28)
 [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
+[!(https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
 [![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)
 
 <br/>
 
-**🎯 Target Roles:** `Data Analyst` · `MIS Analyst` · `Business Analyst` · `BI Analyst` · `Operations Analyst`
-
-</div>
-
----
-
-<div align="center">
-
-📌 **Open to:** Data Analyst · MIS Analyst · BI Analyst · Operations Analyst &nbsp;|&nbsp; 📍 **Pune** · Open to relevant opportunities
+                            `Data Analyst` · `MIS Analyst` · `Business Analyst` · `BI Analyst` · `Operations Analyst`
 
 </div>
 
@@ -124,15 +116,9 @@ Model-wise and region-wise sales performance analysis for an automotive brand �
 
 `Power BI` `SQL` `Automotive Analytics`
 
-**[→ View Repository](https://github.com/imshubhamv28/bmw-sales-analytics)** *(update with your exact repo link)*
+**[→ View Repository](https://github.com/imshubhamv28/bmw-sales-analytics)**
 
 ---
-
-<div align="center">
-
-📂 <i>All project files, datasets, and write-ups are in my <a href="https://github.com/imshubhamv28?tab=repositories">GitHub repositories</a> — interactive versions of select dashboards are also on <a href="https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes">Tableau Public</a>.</i>
-
-</div>
 
 <br/>
 
@@ -302,21 +288,6 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Download%20Resume&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </a>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshubhamv28)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imshubhamv28)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/imshubhamda28)
-
-<sub>👆 Click the banner to preview the resume in Google Drive — download option appears in the top-right of the preview.</sub>
-
-</div>
-
----
-
-## 📬 Let's Connect
 
 <div align="center">
 
@@ -324,11 +295,10 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshubhamv28)
 [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
+[!(https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
 [![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)
 
-💬 Let's turn your data into decisions — always open to a conversation about Data Analytics, MIS, or your next Data Analyst hire.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,50:2C5364,100:0F2027&height=110&section=footer" width="100%"/>
 
