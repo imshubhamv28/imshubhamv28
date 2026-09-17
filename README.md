@@ -27,21 +27,44 @@
 
 <br/>
 
+<div align="center">
+
+| 🕐 5+ Years | 📊 3 BI Projects | 🎓 9 Certifications | ⚙️ ~20% Faster Reporting | 🏢 2 Dealership Employers |
+|:---:|:---:|:---:|:---:|:---:|
+| Automotive MIS & Analytics | Power BI · SQL · Tableau | Deloitte · IBM · NASSCOM · ExcelR | Through report automation | Standard MotoCorp · Shubh Motors |
+
+</div>
+
+---
+
 ### 👋 About Me
 
-I'm a **Data Analytics Professional with 5+ years of experience** turning dealership operations data into decisions leadership actually acted on — most recently as **Service EDP Manager at Standard MotoCorp Pvt. Ltd., a Maruti Suzuki NEXA dealership** in Jabalpur.
+I'm a **Data Analyst with 5+ years of hands-on experience** turning raw operational data into decisions business leaders actually acted on — not from classroom projects, but from running the analytics function inside a live automotive dealership environment (Maruti Suzuki NEXA), most recently as Service EDP Manager at Standard MotoCorp Pvt. Ltd., Jabalpur.
 
-At a NEXA dealership, the **EDP (Electronic Data Processing) Manager is effectively the in-house data function** — the person who owns the Dealer Management System (DMS) that runs the entire showroom and workshop. That meant I was responsible for:
+For over five years, I sat at the intersection of **data and decision-making**. I owned the pipeline end-to-end — from a live Dealer Management System (DMS) capturing every customer enquiry, invoice, service record, and warranty claim, through cleaning and validation in SQL/MySQL and Power Query, into the Power BI dashboards and MIS reports that Regional Managers and manufacturer stakeholders relied on every week. Stripped of the automotive job title, that experience is pure data analytics:
 
-- 🔗 **Owning the data backbone** — every customer enquiry, vehicle booking, invoice, service job-card, warranty claim, and stock movement in the DMS, kept synced with **Maruti Suzuki's central servers** on schedule and without errors.
-- 🧹 **Data integrity & governance** — validating, cleaning, and reconciling DMS + MySQL data before it reached any report, so numbers Regional Managers and the manufacturer saw could be trusted.
-- 📊 **Reporting & analytics** — converting that raw operational data into the **daily/weekly/monthly MIS reports and Power BI dashboards** used to track CSAT, NPS, Labour & Parts Revenue, Service TAT, Bay Productivity, CEI, and Workshop Utilization.
-- ⚙️ **Automating what used to be manual** — replacing repetitive Excel-based reporting with Power Query, Power Pivot, and VBA-driven pipelines, cutting manual reporting effort by **~20%**.
+- 🔗 **Data extraction & pipeline ownership** — pulling and syncing operational data from a DMS and MySQL databases, the same extraction discipline any analyst role runs on daily.
+- 🧹 **Data cleaning, validation & reconciliation** — no number reached a report without being checked first, so leadership could trust the dashboards without double-checking them.
+- 📊 **Dashboard & KPI development** — building Power BI dashboards tracking CSAT, NPS, Labour & Parts Revenue, Service TAT, Bay Productivity, and CEI, turning raw transactional data into decisions.
+- ⚙️ **Reporting automation** — replacing manual, repetitive Excel work with Power Query, Power Pivot, and VBA-driven pipelines, cutting reporting effort by **~20%**.
+- 🤝 **Stakeholder communication** — translating data into business language for Regional Managers, Workshop Heads, and manufacturer teams, and being the trusted point of contact for reporting accuracy.
 
+It's the same core skill set a Data Analyst role needs — I've simply earned it under an operations title instead of the "Data Analyst" one. I've since formalized it structurally with certifications from ExcelR, Deloitte, IBM, NASSCOM FutureSkills, and Simplilearn, plus a self-built BI project portfolio, and I'm now looking to bring this experience to a dedicated **Data Analyst / MIS Analyst** role full-time.
 
-- 📊 Skilled in **SQL, Power BI, Advanced Excel, Power Query, DAX, Python** for data extraction, analysis, visualization, and reporting automation.
-- 💬 Happy to talk about **Data Analysis, Data Cleaning, Data Visualization, Data Driven Decision Making.**
+- 📊 Skilled in **SQL, Power BI, Tableau, Advanced Excel, Power Query, DAX, MySQL, Python** for data extraction, analysis, visualization, and reporting automation.
+- 💬 Happy to talk about **Power BI, DAX, SQL, or reporting automation.**
 - 📫 Reach me at **[imshubham.v28@gmail.com](mailto:imshubham.v28@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/imshubhamv28)** — open to referrals and full-time opportunities.
+
+<br/>
+
+### 🎯 What I Bring to the Table
+
+| Business Problem | What I Did | Result |
+|---|---|---|
+| Leadership had no single view of **CSAT & NPS performance** | Built Power BI dashboards on Maruti DMS + MySQL data, cleaned & reconciled with SQL and Power Query | Audit-ready quarterly/yearly reporting for management & manufacturer |
+| Manual MIS reporting on **Revenue, TAT, Bay Productivity, CEI** was slow & error-prone | Automated the pipeline with Power Query, Power Pivot & VBA Macros | Cut manual reporting effort by **~20%** |
+| No visibility into **technician & workshop performance** | Consolidated DMS data into MIS reports with trend & root-cause analysis | Data-backed operational planning for Workshop Heads |
+| Complex healthcare/aviation/finance datasets need self-serve exploration | Built full BI portfolio — star-schema modeling, DAX measure libraries, multi-page dashboards | 3 end-to-end analytics projects, each with governed data models |
 
 <br/>
 
