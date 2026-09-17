@@ -15,13 +15,41 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshubhamv28)
 [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
-[!(https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
 [![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)
 
 <br/>
 
-                            `Data Analyst` · `MIS Analyst` · `Business Analyst` · `BI Analyst` · `Operations Analyst`
+**🎯 Target Roles:** `Data Analyst` · `MIS Analyst` · `Business Analyst` · `BI Analyst` · `Operations Analyst`
+
+</div>
+
+---
+
+### 👋 About Me
+
+I'm a **Data Analyst & MIS Analyst** with 5+ years of experience working with real-world business and automotive service operations data.
+
+My experience started in automotive service operations, where I worked closely with large volumes of customer, vehicle, service, revenue, and performance data. Over the years, I moved from routine MIS reporting to more analytical work — building KPI reports, identifying trends, improving data accuracy, and helping management understand operational performance.
+
+Today, my core focus is on turning raw data into clear, actionable insights using:
+
+- 🗄️ **SQL / MySQL** — data extraction, joins, aggregations, analysis and validation
+- 📊 **Power BI** — interactive dashboards, DAX, data modeling, drill-through and reporting
+- 📈 **Advanced Excel** — Pivot Tables, Power Query, Power Pivot, VBA and automation
+- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn and exploratory data analysis
+- 🔎 **Data Analytics** — data cleaning, transformation, KPI analysis, trend analysis and root-cause analysis
+
+One of my key projects involved analyzing **customer satisfaction and NPS data for NEXA service operations**, where I worked with **40,000+ customer feedback records** to understand Promoters, Passives and Detractors, identify dissatisfaction patterns, and build management-focused analytics.
+
+I enjoy solving practical business problems with data — not just creating dashboards, but understanding what the numbers are saying, why something is happening, and what action can be taken next.
+
+I'm currently looking for opportunities in **Data Analytics, MIS Analytics, Business Intelligence, and Operations Analytics**, where I can combine my business-domain experience with my technical analytics skills and contribute to data-driven decision making.
+
+<div align="center">
+
+📌 **Open to:** Data Analyst · MIS Analyst · BI Analyst · Operations Analyst &nbsp;|&nbsp; 📍 **Pune** · Open to relevant opportunities
 
 </div>
 
@@ -34,7 +62,7 @@
 ### 1️⃣ [AXON Healthcare Analytics — EMR Business Intelligence System](https://github.com/imshubhamv28/AXON-HealthCare-Analytics)
 **Sep 2026 · Power BI · Tableau · SQL · Excel · DAX**
 
-<img width="925" height="517" alt="AXON Healthcare Executive Dashboard" src="https://github.com/user-attachments/assets/cf51ca51-ab3b-4d47-ac98-db6fe55878ca"/>
+<img width="100%" alt="AXON Healthcare Executive Dashboard" src="https://github.com/user-attachments/assets/cf51ca51-ab3b-4d47-ac98-db6fe55878ca"/>
 
 An end-to-end EMR analytics build on a 10,000-patient hospital dataset — star-schema SQL modeling, a governed DAX measure library, and four stakeholder dashboards (Executive, Patient Analytics, Clinical Operations, Doctor Performance) covering visit completion, chronic-care burden, doctor workload, and revenue.
 
@@ -47,7 +75,7 @@ An end-to-end EMR analytics build on a 10,000-patient hospital dataset — star-
 ### 2️⃣ [High Cloud Airlines — Performance Analytics Dashboard](https://github.com/imshubhamv28/High-Cloud-Airlines-Performance-Analytics-Dashboard)
 **Power BI · SQL · Excel**
 
-<img width="852" height="477" alt="High Cloud Airlines Home Dashboard" src="https://github.com/user-attachments/assets/b8401014-22c2-4d77-9f98-dd3c8332103d"/>
+<img width="100%" alt="High Cloud Airlines Home Dashboard" src="https://github.com/user-attachments/assets/b8401014-22c2-4d77-9f98-dd3c8332103d"/>
 
 A 6-page interactive Power BI dashboard analyzing U.S. domestic airline operations data (2008–2013) — executive summary, load factor, passenger volume, freight, and route-performance views, filterable by carrier, route, and distance band.
 
@@ -60,7 +88,7 @@ A 6-page interactive Power BI dashboard analyzing U.S. domestic airline operatio
 ### 3️⃣ [Retail Investor Behaviour Analysis Dashboard](https://github.com/imshubhamv28/Investment-Behavior-Analysis-Dashboard-Power-BI)
 **Power BI · Excel**
 
-<img width="956" height="537" alt="Retail Investor Behaviour Dashboard" src="https://github.com/user-attachments/assets/584e34ec-6ff4-4847-ac75-2bdb16aba708"/>
+<img width="100%" alt="Retail Investor Behaviour Dashboard" src="https://github.com/user-attachments/assets/584e34ec-6ff4-4847-ac75-2bdb16aba708"/>
 
 An interactive Power BI dashboard analyzing investor behavior, asset allocation, and portfolio trends from a public dataset, built on a structured data model with custom DAX measures.
 
@@ -72,9 +100,8 @@ An interactive Power BI dashboard analyzing investor behavior, asset allocation,
 
 ### 4️⃣ E-Commerce Sales Analytics Dashboard
 **Power BI · DAX · Power Query**
-<img width="1533" height="827" alt="Ecommerce sales Dashboard" src="https://github.com/user-attachments/assets/633ceada-72e5-49ec-926b-80011416b881" />
 
-<img width="100%" alt="E-Commerce Sales Analytics Dashboard" src="assets/projects/ecommerce-sales/ecommerce-sales-dashboard.png"/>
+<img width="100%" alt="E-Commerce Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/633ceada-72e5-49ec-926b-80011416b881"/>
 
 A KPI-driven dashboard tracking Sales, Profit, Quantity, Total Orders, and Profit Margin with YoY growth callouts, category-wise profit breakdown, a 12-month sales-vs-profit trend, top-10 subcategories, state-wise sales map, sales-share by category, and Category/Year/Region filters for self-service exploration.
 
@@ -86,7 +113,8 @@ A KPI-driven dashboard tracking Sales, Profit, Quantity, Total Orders, and Profi
 
 ### 5️⃣ HR Analytics Dashboard
 **Power BI · DAX**
-<img width="1159" height="641" alt="Screenshot 2026-08-06 222902" src="https://github.com/user-attachments/assets/09af94e1-5d14-4f8b-8379-a50c69de387f" />
+
+<img width="100%" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/09af94e1-5d14-4f8b-8379-a50c69de387f"/>
 
 A workforce attendance dashboard tracking Total Working Days, Present Days, Presence %, WFH %, and Sick Leave %, broken down by weekday and by employee, with trend lines and a full daily attendance grid for granular drill-down.
 
@@ -98,7 +126,8 @@ A workforce attendance dashboard tracking Total Working Days, Present Days, Pres
 
 ### 6️⃣ Swiggy Sales Analytics
 **Power BI · SQL**
-<img width="1300" height="736" alt="Swiggy-HomePage" src="https://github.com/user-attachments/assets/987e8b66-f18e-401e-90e2-cc7194d10a23" />
+
+<img width="100%" alt="Swiggy Sales Analytics" src="https://github.com/user-attachments/assets/987e8b66-f18e-401e-90e2-cc7194d10a23"/>
 
 Order and revenue analysis across cities, cuisines, and time windows to identify peak-demand patterns and category-level growth opportunities for a food-delivery business.
 
@@ -110,13 +139,14 @@ Order and revenue analysis across cities, cuisines, and time windows to identify
 
 ### 7️⃣ BMW Sales Analytics
 **Power BI · SQL**
-<img width="1163" height="650" alt="BMW-Global-Dashboard" src="https://github.com/user-attachments/assets/3f8c897b-82ee-470e-bf79-a13b0f174a37" />
+
+<img width="100%" alt="BMW Sales Analytics" src="https://github.com/user-attachments/assets/3f8c897b-82ee-470e-bf79-a13b0f174a37"/>
 
 Model-wise and region-wise sales performance analysis for an automotive brand — a natural extension of my dealership MIS background into a portfolio-scale BI project.
 
 `Power BI` `SQL` `Automotive Analytics`
 
-**[→ View Repository](https://github.com/imshubhamv28/bmw-sales-analytics)**
+**[→ View Repository](https://github.com/imshubhamv28/bmw-sales-analytics)** *(update with your exact repo link)*
 
 ---
 
@@ -273,21 +303,27 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=GitHub%20Activity&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imshubhamv28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhamv28&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
----
-
-<div align="center">
 <a href="https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Download%20Resume&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </a>
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshubhamv28)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshubhamv28)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
+
+<sub>👆 Click the banner to preview the resume in Google Drive — download option appears in the top-right of the preview.</sub>
+
+</div>
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
@@ -295,10 +331,11 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshubhamv28)
 [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
-[!(https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
 [![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)
 
+💬 Let's turn your data into decisions — always open to a conversation about Data Analytics, MIS, or your next Data Analyst hire.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,50:2C5364,100:0F2027&height=110&section=footer" width="100%"/>
 
