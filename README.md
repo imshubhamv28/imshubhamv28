@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00c6ff&height=220&section=header&text=Shubham%20Vishwakarma&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20MIS%20%26%20Dashboards&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://www.linkedin.com/in/imshubhamv28"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=2C5364&center=true&vCenter=true&width=780&lines=Turning+Raw+Data+Into+Revenue+Decisions;5%2B+Years+in+Service+MIS+%26+Business+Analytics;Power+BI+%7C+SQL+%7C+Advanced+Excel+%7C+Power+Query+%7C+DAX;7+End-to-End+Portfolio+Dashboards+%7C+9+Certifications" alt="Typing SVG"/></a>
+<a href="https://www.linkedin.com/in/imshubhamv28"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=2C5364&center=true&vCenter=true&width=780&lines=Hii- I'm+Shubham+Vishwakarma;Turning+Raw+Data+Into+Decisions;5%2B+Years+in+Automotive+Dealership+Domain;Power+BI+%7C+SQL+%7C+Advanced+Excel+%7C+Power+Query+%7C+DAX; alt="Typing SVG"/></a>
 
 <br/>
 
