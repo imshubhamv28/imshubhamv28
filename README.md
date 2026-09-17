@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2F80ED&height=200&section=header&text=Shubham%20Vishwakarma&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20MIS%20Analytics&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Vishwakarma;Data+Analyst+%7C+MIS+Analyst;Business+Intelligence+%26+Dashboard+Developer;Power+BI+%C2%B7+SQL+%C2%B7+DAX+%C2%B7+Advanced+Excel+%C2%B7+Python;Turning+Raw+Data+Into+Decisions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Vishwakarma;Data+Analyst+%7C+MIS+Analyst;Power+BI+%C2%B7+SQL+%C2%B7+Advanced+Excel+%C2%B7+Python;Turning+Raw+Data+Into+Decisions" alt="Typing SVG"/>
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-**🎯 Target Roles:** `Data Analyst` · `MIS Analyst` · `Business Analyst` · `BI Analyst` · `Operations Analyst`
+           `Data Analyst` · `MIS Analyst` · `Business Analyst` · `BI Analyst` · `Operations Analyst`
 
 </div>
 
@@ -49,8 +49,6 @@ I'm currently looking for opportunities in **Data Analytics, MIS Analytics, Busi
 
 <div align="center">
 
-📌 **Open to:** Data Analyst · MIS Analyst · BI Analyst · Operations Analyst &nbsp;|&nbsp; 📍 **Pune** · Open to relevant opportunities
-
 </div>
 
 ---
@@ -59,7 +57,7 @@ I'm currently looking for opportunities in **Data Analytics, MIS Analytics, Busi
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
 
-### 1️⃣ [AXON Healthcare Analytics — EMR Business Intelligence System](https://github.com/imshubhamv28/AXON-HealthCare-Analytics)
+### 1️⃣ [AXON Healthcare Analytics — EMR Business Intelligence System]
 **Sep 2026 · Power BI · Tableau · SQL · Excel · DAX**
 
 <img width="100%" alt="AXON Healthcare Executive Dashboard" src="https://github.com/user-attachments/assets/cf51ca51-ab3b-4d47-ac98-db6fe55878ca"/>
@@ -72,7 +70,7 @@ An end-to-end EMR analytics build on a 10,000-patient hospital dataset — star-
 
 ---
 
-### 2️⃣ [High Cloud Airlines — Performance Analytics Dashboard](https://github.com/imshubhamv28/High-Cloud-Airlines-Performance-Analytics-Dashboard)
+### 2️⃣ [High Cloud Airlines — Performance Analytics Dashboard]
 **Power BI · SQL · Excel**
 
 <img width="100%" alt="High Cloud Airlines Home Dashboard" src="https://github.com/user-attachments/assets/b8401014-22c2-4d77-9f98-dd3c8332103d"/>
@@ -85,7 +83,7 @@ A 6-page interactive Power BI dashboard analyzing U.S. domestic airline operatio
 
 ---
 
-### 3️⃣ [Retail Investor Behaviour Analysis Dashboard](https://github.com/imshubhamv28/Investment-Behavior-Analysis-Dashboard-Power-BI)
+### 3️⃣ [Retail Investor Behaviour Analysis Dashboard]
 **Power BI · Excel**
 
 <img width="100%" alt="Retail Investor Behaviour Dashboard" src="https://github.com/user-attachments/assets/584e34ec-6ff4-4847-ac75-2bdb16aba708"/>
@@ -107,7 +105,7 @@ A KPI-driven dashboard tracking Sales, Profit, Quantity, Total Orders, and Profi
 
 `Power BI` `DAX` `Power Query` `Retail Analytics`
 
-**[→ View Repository](https://github.com/imshubhamv28/ecommerce-sales-analytics-dashboard)** *(update with your exact repo link)*
+**[→ View Repository](https://github.com/imshubhamv28/ecommerce-sales-analytics-dashboard)** 
 
 ---
 
@@ -120,7 +118,7 @@ A workforce attendance dashboard tracking Total Working Days, Present Days, Pres
 
 `Power BI` `DAX` `HR Analytics`
 
-**[→ View Repository](https://github.com/imshubhamv28/hr-analytics-dashboard)** *(update with your exact repo link)*
+**[→ View Repository](https://github.com/imshubhamv28/hr-analytics-dashboard)**
 
 ---
 
@@ -133,7 +131,7 @@ Order and revenue analysis across cities, cuisines, and time windows to identify
 
 `Power BI` `SQL` `Food Delivery Analytics`
 
-**[→ View Repository](https://github.com/imshubhamv28/swiggy-sales-analytics)** *(update with your exact repo link)*
+**[→ View Repository](https://github.com/imshubhamv28/swiggy-sales-analytics)**
 
 ---
 
@@ -146,54 +144,15 @@ Model-wise and region-wise sales performance analysis for an automotive brand �
 
 `Power BI` `SQL` `Automotive Analytics`
 
-**[→ View Repository](https://github.com/imshubhamv28/bmw-sales-analytics)** *(update with your exact repo link)*
+**[→ View Repository](https://github.com/imshubhamv28/bmw-sales-analytics)**
 
 ---
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Professional%20Experience&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Certificates&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
-
-**Service EDP Manager (MIS Analyst)** — Standard MotoCorp Pvt. Ltd., Jabalpur · *Jun 2022 – Sep 2025*
-
-<br/>
-
-**📊 Customer Satisfaction & NPS Performance Analytics Dashboard** — *Nov 2024 – Sep 2025*
-- Developed interactive Power BI dashboards to analyze customer satisfaction, NPS scores, service performance, and operational KPIs for management and manufacturer reporting
-- Extracted and consolidated data from Maruti DMS and MySQL using SQL; performed data cleaning, validation, transformation, and reconciliation with Advanced Excel and Power Query
-- Conducted trend analysis on customer satisfaction, repeat visits, and NPS performance; prepared quarterly, yearly, and audit-related reports for management and manufacturer reviews
-
-**⚙️ Service Operations Performance Analytics Dashboard** — *Oct 2023 – Nov 2024*
-- Built automated MIS dashboards and KPI reports (Power Query, Power Pivot, VBA Macros) tracking Labour Revenue, Parts Revenue, Service TAT, Bay Productivity, CEI, and NPS
-- Standardized reporting templates and automated recurring reports, **cutting manual reporting effort by ~20%** and improving turnaround time and accuracy
-- Generated business insights for Service Managers, Workshop Heads, Regional Teams, and Management stakeholders
-
-**🔧 Workshop Productivity & Technician Performance Analytics Dashboard** — *Jun 2022 – Sep 2023*
-- Consolidated workshop and service operations data from Maruti DMS into daily, weekly, and monthly MIS reports; monitored Bay Productivity, Technician Efficiency, and Workshop Utilization KPIs
-- Built technician productivity and pending job-card reports; conducted trend and root-cause analysis to support operational planning
-
-<br/>
-
-**Service EDP Executive (MIS Executive)** — Shubh Motors Pvt. Ltd., Jabalpur · *Jun 2019 – Dec 2021*
-
-<br/>
-
-**📋 Service Operations MIS Reporting & Dashboard** — *Nov 2020 – Dec 2021*
-- Built daily, weekly, and monthly MIS dashboards (Pivot Tables, Pivot Charts, VLOOKUP) tracking Vehicle Inflow, Labour Revenue, Service Orders, and Workshop Productivity
-- Tracked warranty claim submission, approval trends, and processing performance; performed data validation and reconciliation to ensure reporting accuracy
-
-**💰 Service Revenue & Operational Reporting Analysis** — *Jul 2019 – Oct 2020*
-- Consolidated DMS data into daily, weekly, and monthly business reports monitoring service revenue, labour revenue, and service order volume trends
-- Used Advanced Excel, Pivot Tables, and lookup functions to analyze operational data; generated performance summaries for Service Managers and Management
-
-<br/>
-
-*(Full resume available [here](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link).)*
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Certifications%20%26%20Learning&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </div>
@@ -308,34 +267,16 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Download%20Resume&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </a>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshubhamv28)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshubhamv28)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
-
-<sub>👆 Click the banner to preview the resume in Google Drive — download option appears in the top-right of the preview.</sub>
-
-</div>
-
----
-
-## 📬 Let's Connect
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imshubhamv28)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imshubhamv28)
 [![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shubham.vishwakarma1885/vizzes)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
 [![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)
 
-💬 Let's turn your data into decisions — always open to a conversation about Data Analytics, MIS, or your next Data Analyst hire.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,50:2C5364,100:0F2027&height=110&section=footer" width="100%"/>
 
