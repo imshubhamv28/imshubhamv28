@@ -30,60 +30,9 @@
 
 ### 👋 About Me
 
-I'm a **Data Analyst & MIS Analyst Professional with 5+ Yrs experience in MIS Reporting, KPI Analysis, Dashboard Development, Business Performance Analytics in the Automotive Dealership After-Sales (Service) Domain.
+**I'm a Data Analyst & MIS Analyst Professional with 5+ Yrs experience in MIS Reporting, KPI Analysis, Dashboard Development, Business Performance Analytics in the Automotive Dealership After-Sales (Service) Domain.**
 
 For over five years, I sat at the intersection of **data and decision-making**. I owned the pipeline end-to-end from a live Dealer Management System (DMS) capturing every customer enquiry, invoice, service record, and warranty claim, through cleaning and validation in Advanced Excel, Power BI and Power Query, into the Power BI dashboards and MIS reports that Internal stakeholders Like Service Managers, CRM Team, Quality Managers and Management relied on every week. 
-
-- 📊 Skilled in **SQL, Power BI, Advanced Excel, Power Query, DAX, MySQL, Python, Tableau** for data extraction, analysis, visualization, and reporting automation.
-
-
-- 📫 Reach me at **[imshubham.v28@gmail.com](mailto:imshubham.v28@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/imshubhamv28)** — open to referrals and full-time opportunities.
-
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Tech%20Stack%20%26%20Proficiency&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
-</div>
-
-<div align="center">
-
-| Skill | Proficiency |
-|---|---|
-| **Power BI** (Dashboards, DAX, Power Query) | ![](https://progress-bar.dev/90/?width=250&color=F2C811) |
-| **Advanced Excel** (Pivot, VBA, Lookups) | ![](https://progress-bar.dev/92/?width=250&color=217346) |
-| **SQL / MySQL** | ![](https://progress-bar.dev/85/?width=250&color=4479A1) |
-| **Tableau** | ![](https://progress-bar.dev/75/?width=250&color=E97627) |
-| **MIS Reporting & Automation** | ![](https://progress-bar.dev/90/?width=250&color=2F80ED) |
-| **Python (Pandas, NumPy)** | ![](https://progress-bar.dev/65/?width=250&color=3776AB) |
-
-</div>
-
-<br/>
-
-**Business Intelligence**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-2C2C2C?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Databases & Query**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Spreadsheet & Reporting**
-
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-A91E22?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-**Programming & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI_Tools-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
 
 ---
 
