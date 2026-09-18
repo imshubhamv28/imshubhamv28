@@ -25,7 +25,7 @@
 </div>
 
 ### 1️⃣ AXON Healthcare Analytics
-**Sep 2026 · Power BI · Tableau · SQL · Excel · DAX**
+**Sep 2026 · Power BI  · SQL · Excel · DAX**
 
 <img width="100%" alt="AXON Healthcare Executive Dashboard" src="https://github.com/user-attachments/assets/cf51ca51-ab3b-4d47-ac98-db6fe55878ca"/>
 
@@ -64,7 +64,7 @@ An interactive Power BI dashboard analyzing investor behavior, asset allocation,
 ---
 
 ### 4️⃣ E-Commerce Sales Analytics Dashboard
-**Power BI · DAX · Power Query**
+**Advanced Excel · Power Query**
 
 <img width="100%" alt="E-Commerce Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/633ceada-72e5-49ec-926b-80011416b881"/>
 
@@ -77,7 +77,7 @@ A KPI-driven dashboard tracking Sales, Profit, Quantity, Total Orders, and Profi
 ---
 
 ### 5️⃣ HR Analytics Dashboard
-**Power BI · DAX**
+**Power BI · DAX · Power Query**
 
 <img width="100%" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/09af94e1-5d14-4f8b-8379-a50c69de387f"/>
 
@@ -90,7 +90,7 @@ A workforce attendance dashboard tracking Total Working Days, Present Days, Pres
 ---
 
 ### 6️⃣ Swiggy Sales Analytics
-**Power BI · SQL**
+**Power BI · DAX · Power Query**
 
 <img width="100%" alt="Swiggy Sales Analytics" src="https://github.com/user-attachments/assets/987e8b66-f18e-401e-90e2-cc7194d10a23"/>
 
@@ -103,7 +103,7 @@ Order and revenue analysis across cities, cuisines, and time windows to identify
 ---
 
 ### 7️⃣ BMW Sales Analytics
-**Power BI · SQL**
+**Power BI · DAX · Power Query**
 
 <img width="100%" alt="BMW Sales Analytics" src="https://github.com/user-attachments/assets/3f8c897b-82ee-470e-bf79-a13b0f174a37"/>
 
