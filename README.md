@@ -17,7 +17,7 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
-[![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1WqVPPWFRKRr_FwE6Xygxod4iw306AAVN/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)]()
 
 <br/>
 <div align="center">
