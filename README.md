@@ -17,7 +17,7 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
-[![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)]()
+[![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1sEgRhDmkyTU_WqPvefXdhpFAP7YVFWt3/view?usp=drive_link)
 
 <br/>
 <div align="center">
@@ -225,7 +225,7 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 
 <div align="center">
 
-<a href="">
+<a href="https://drive.google.com/file/d/1sEgRhDmkyTU_WqPvefXdhpFAP7YVFWt3/view?usp=drive_link">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Download%20Resume&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </a>
 
@@ -237,7 +237,7 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
-[![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)]()
+[![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1sEgRhDmkyTU_WqPvefXdhpFAP7YVFWt3/view?usp=drive_link)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,50:2C5364,100:0F2027&height=110&section=footer" width="100%"/>
