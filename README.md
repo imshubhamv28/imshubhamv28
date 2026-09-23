@@ -17,7 +17,6 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
-[![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1sEgRhDmkyTU_WqPvefXdhpFAP7YVFWt3/view?usp=drive_link)
 
 <br/>
 <div align="center">
@@ -72,7 +71,7 @@ A KPI-driven dashboard tracking Sales, Profit, Quantity, Total Orders, and Profi
 
 `Power BI` `DAX` `Power Query` `Retail Analytics`
 
-**[→ View Repository](https://github.com/imshubhamv28/ecommerce-sales-analytics-dashboard)** 
+**[→ View Repository](https://github.com/imshubhamv28/ECOMMERCE-SALES-ANALYTICS-DASHBOARD---EXCEL)** 
 
 ---
 
@@ -85,7 +84,7 @@ A workforce attendance dashboard tracking Total Working Days, Present Days, Pres
 
 `Power BI` `DAX` `HR Analytics`
 
-**[→ View Repository](https://github.com/imshubhamv28/hr-analytics-dashboard)**
+**[→ View Repository](https://github.com/imshubhamv28/HR-Analytics-Dashboard)**
 
 ---
 
@@ -96,9 +95,9 @@ A workforce attendance dashboard tracking Total Working Days, Present Days, Pres
 
 Order and revenue analysis across cities, cuisines, and time windows to identify peak-demand patterns and category-level growth opportunities for a food-delivery business.
 
-`Power BI` `SQL` `Food Delivery Analytics`
+`Power BI` `DAX` `Food Delivery Analytics`
 
-**[→ View Repository](https://github.com/imshubhamv28/swiggy-sales-analytics)**
+**[→ View Repository](https://github.com/imshubhamv28/Swiggy-Sales-Performance-Dashboard)**
 
 ---
 
@@ -109,7 +108,7 @@ Order and revenue analysis across cities, cuisines, and time windows to identify
 
 Model-wise and region-wise sales performance analysis for an automotive brand — a natural extension of my dealership MIS background into a portfolio-scale BI project.
 
-`Power BI` `SQL` `Automotive Analytics`
+`Power BI` `Excel` `Automotive Analytics`
 
 **[→ View Repository](https://github.com/imshubhamv28/BMW-Dashboard)**
 
@@ -237,7 +236,6 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imshubham.v28@gmail.com)
 [![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imshubhamda28)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917828178097)
-[![Resume](https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1sEgRhDmkyTU_WqPvefXdhpFAP7YVFWt3/view?usp=drive_link)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,50:2C5364,100:0F2027&height=110&section=footer" width="100%"/>
