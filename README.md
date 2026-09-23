@@ -111,7 +111,7 @@ Model-wise and region-wise sales performance analysis for an automotive brand �
 
 `Power BI` `SQL` `Automotive Analytics`
 
-**[→ View Repository](https://github.com/imshubhamv28/bmw-sales-analytics)**
+**[→ View Repository](https://github.com/imshubhamv28/BMW-Dashboard)**
 
 ---
 
