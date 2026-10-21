@@ -224,7 +224,7 @@ RGPV University, Bhopal · 2019 · CGPA: 7.09
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1sEgRhDmkyTU_WqPvefXdhpFAP7YVFWt3/view?usp=drive_link">
+<a href="">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:0F2027&height=70&text=Download%20Resume&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%"/>
 </a>
 
