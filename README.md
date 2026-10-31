@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2F80ED&height=200&section=header&text=Shubham%20Vishwakarma&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20MIS%20Analytics&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Vishwakarma;Data+Analyst+%7C+MIS+Analyst;Power+BI+%C2%B7+SQL+%C2%B7+Advanced+Excel+%C2%B7+Python;Turning+Raw+Data+Into+Decisions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hii+%F0%9F%91%8B%2C+i'm+SHUBHAM+VISHWAKARMA;DATA+ANALYST+%7C+MIS+ANALYST;POWER+BI+%C2%B7+SQL+%C2%B7+ADVANCED+EXCEL+%C2%B7+PYTHON;Turning+Raw+Data+Into+Decisions" alt="Typing SVG"/>
 
 <br/>
 
