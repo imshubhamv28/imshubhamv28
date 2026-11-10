@@ -203,10 +203,10 @@ Issued 21 May 2026 · Certificate code: 10252594
 <td width="50%" valign="top" align="center">
 
 
-**🏆** **Indian Institute of Technology Jammu** **🏆** "\n"
+**🏆** **Indian Institute of Technology Jammu** **🏆** <br>
 
-*Certificate ID: 2026/I3C-IBD/CAS/DA-C5/1153* "\n"
-*Trainer : Dr. Ajay Singh, Department of Electrical Engineering.* "\n"
+*Certificate ID: 2026/I3C-IBD/CAS/DA-C5/1153* <br>
+*Trainer : Dr. Ajay Singh, Department of Electrical Engineering.*
 <sub>
 <img width="740" height="522" alt="image" src="https://github.com/user-attachments/assets/eb2b688f-f299-4230-b115-c0a1e4566ff5" />
 </sub>
