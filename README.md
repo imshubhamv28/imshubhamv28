@@ -101,7 +101,7 @@ Order and revenue analysis across cities, cuisines, and time windows to identify
 
 ---
 
-### 7️⃣ BMW Sales Analytics
+### 7️⃣ BMW Sales Analytics 
 **Power BI · DAX · Power Query**
 
 <img width="100%" alt="BMW Sales Analytics" src="https://github.com/user-attachments/assets/3f8c897b-82ee-470e-bf79-a13b0f174a37"/>
@@ -122,7 +122,7 @@ Model-wise and region-wise sales performance analysis for an automotive brand �
 <tr>
 <td width="50%" valign="top">
 
-**🥇 Certificate Program in Data Analyst — Gold**
+**🥇 Certificate Program in Data Analyst — Gold** <br>
 *NASSCOM FutureSkills Prime · Ministry of Electronics & IT, Govt. of India*
 Issued 31/08/2026 · Score: 79/100 (Gold, ≥70%)
 <img width="100%" alt="NASSCOM FutureSkills Gold Certificate" src="https://github.com/user-attachments/assets/d7495863-7924-4b35-a6e4-41c068093c63"/>
@@ -130,7 +130,7 @@ Issued 31/08/2026 · Score: 79/100 (Gold, ≥70%)
 </td>
 <td width="50%" valign="top">
 
-**📋 Detailed Assessment Scorecard**
+**📋 Detailed Assessment Scorecard** <br>
 *NASSCOM FutureSkills Prime*
 Module-wise breakdown — 79% overall, 100% on Module M004
 <img width="100%" alt="NASSCOM Scorecard" src="https://github.com/user-attachments/assets/41bbc750-51b3-4697-b44d-2d70942dac25"/>
@@ -140,7 +140,7 @@ Module-wise breakdown — 79% overall, 100% on Module M004
 <tr>
 <td width="50%" valign="top">
 
-**🗄️ SQL and Relational Databases 101**
+**🗄️ SQL and Relational Databases 101** <br>
 *IBM Skills Network via CognitiveClass.ai (DB0101EN)*
 Issued June 21, 2026
 <img width="100%" alt="IBM SQL Certificate" src="https://github.com/user-attachments/assets/f07eb230-ac72-444c-addc-b96835f2309c"/>
@@ -148,7 +148,7 @@ Issued June 21, 2026
 </td>
 <td width="50%" valign="top">
 
-**📊 Data Analyst 101**
+**📊 Data Analyst 101** <br>
 *Microsoft, via Simplilearn SkillUp*
 Issued 23 May 2026 · Certificate code: 10260089
 <img width="100%" alt="Simplilearn Data Analyst 101" src="https://github.com/user-attachments/assets/2c8fdc6d-a98c-4c0c-a183-94556c5983c5"/>
@@ -158,7 +158,7 @@ Issued 23 May 2026 · Certificate code: 10260089
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Gen AI & Agentic AI — 30-Hour Live Training**
+**🤖 Gen AI & Agentic AI — 30-Hour Live Training** <br>
 *ExcelR EdTech Pvt. Ltd.*
 01 Jun 2026 – 19 Jun 2026 · Reg/Cert No. 898329
 <img width="100%" alt="ExcelR GenAI Certificate" src="https://github.com/user-attachments/assets/0774a7f1-a00c-4ac6-a818-84ef66c9c817"/>
@@ -166,7 +166,7 @@ Issued 23 May 2026 · Certificate code: 10260089
 </td>
 <td width="50%" valign="top">
 
-**🧩 Data Analytics Job Simulation**
+**🧩 Data Analytics Job Simulation** <br>
 *Deloitte, via Forage*
 August 2026 · Data Analyst
 <img width="100%" alt="Deloitte Job Simulation Certificate" src="https://github.com/user-attachments/assets/3c1bd5e5-aba1-4cfd-9371-7dbfc15d4e57"/>
@@ -176,7 +176,7 @@ August 2026 · Data Analyst
 <tr>
 <td width="50%" valign="top">
 
-**🏆 Data Analytics Professional Certifications Program**
+**🏆 Data Analytics Professional Certifications Program** <br>
 *ExcelR, Pune (Baner, MH) — Certificate of Excellence*
 Jan 2026 – Jun 2026
 <img width="100%" alt="ExcelR Data Analyst Certificate" src="https://github.com/user-attachments/assets/1d06a385-2e54-43f9-abf8-a0bfe9539771"/>
@@ -184,9 +184,9 @@ Jan 2026 – Jun 2026
 </td>
 <td width="50%" valign="top">
 
-**💼 Data Analyst — Internship Program**
-*AI Variant*
-26 Feb 2026 – 29 Aug 2026
+**💼 Data Analyst — Internship Program** <br>
+*AI Variant* <br>
+26 Feb 2026 – 29 Aug 2026 
 <img width="100%" alt="AI Variant Internship Certificate" src="https://github.com/user-attachments/assets/2dd78274-6193-4386-82c5-0cafd64dbf49"/>
 
 </td>
@@ -194,9 +194,9 @@ Jan 2026 – Jun 2026
 <tr>
 <td width="50%" valign="top">
 
-**📈 Introduction to Google Analytics**
-*Simplilearn SkillUp*
-Issued 21 May 2026 · Certificate code: 10252594
+**📈 Introduction to Google Analytics** <br>
+*Simplilearn SkillUp* <br>
+Issued 21 May 2026 · Certificate code: 10252594 <br>
 <img width="100%" alt="Introduction to Google Analytics Certificate" src="https://github.com/user-attachments/assets/2ec742f6-952e-4915-97d7-7668daf67f89"/>
 
 </td>
