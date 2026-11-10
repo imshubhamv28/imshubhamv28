@@ -202,12 +202,14 @@ Issued 21 May 2026 · Certificate code: 10252594
 </td>
 <td width="50%" valign="top" align="center">
 
-**🟡 Upcoming**
 
-**Data Analyst Certification**
-*IIT Jammu*
-
-<sub>In progress — details to be added on completion.</sub>
+**🏆 Data Analyst Certification**
+**Indian Institute of Technology Jammu**
+*Certificate ID: 2026/I3C-IBD/CAS/DA-C5/1153*
+*Trainer : Dr. Ajay Singh, Department of Electrical Engineering.*
+<sub>
+<img width="740" height="522" alt="image" src="https://github.com/user-attachments/assets/eb2b688f-f299-4230-b115-c0a1e4566ff5" />
+</sub>
 
 </td>
 </tr>
